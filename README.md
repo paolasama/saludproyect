@@ -1,4 +1,4 @@
-# 📱 Proyecto 1 — Historia Clínica Electrónica Móvil  
+# 📱 Historia Clínica Electrónica Móvil  
 
 ## 🏥 **Qué es**  
 Aplicación móvil segura para que **médicos y pacientes** accedan al historial médico completo:  
